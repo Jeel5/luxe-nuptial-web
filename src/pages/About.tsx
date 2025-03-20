@@ -28,13 +28,13 @@ const About = () => {
       name: 'Olivia Chen',
       role: 'Senior Event Coordinator',
       image: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1361&q=80',
-      bio: 'Olivia's organization skills and calm demeanor ensure that every event runs smoothly from the initial consultation to the final farewell.',
+      bio: 'Olivia\'s organization skills and calm demeanor ensure that every event runs smoothly from the initial consultation to the final farewell.',
     },
     {
       name: 'Michael Torres',
       role: 'Vendor Relations Manager',
       image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80',
-      bio: 'Michael's extensive network and industry relationships ensure our clients have access to the finest vendors and services available.',
+      bio: 'Michael\'s extensive network and industry relationships ensure our clients have access to the finest vendors and services available.',
     },
   ];
 

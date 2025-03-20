@@ -16,7 +16,7 @@ const Services = () => {
       id: 'full-planning',
       icon: <Calendar className="h-10 w-10 text-luxe-gold" />,
       title: 'Full Planning & Design',
-      description: 'Our signature service provides comprehensive planning from engagement to reception. We'll guide you through every decision, manage all logistics, design your aesthetic vision, and coordinate your entire celebration.',
+      description: 'Our signature service provides comprehensive planning from engagement to reception. We\'ll guide you through every decision, manage all logistics, design your aesthetic vision, and coordinate your entire celebration.',
       features: [
         'Unlimited consultations and communication',
         'Budget development and management',
@@ -67,7 +67,7 @@ const Services = () => {
       id: 'destination',
       icon: <MapPin className="h-10 w-10 text-luxe-gold" />,
       title: 'Destination Weddings',
-      description: 'Specialized planning for weddings outside your home location, whether that's a beachfront ceremony, a European villa, or a mountain retreat.',
+      description: 'Specialized planning for weddings outside your home location, whether that\'s a beachfront ceremony, a European villa, or a mountain retreat.',
       features: [
         'Destination research and recommendations',
         'Travel arrangements coordination',

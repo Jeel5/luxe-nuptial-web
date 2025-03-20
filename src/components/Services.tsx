@@ -1,4 +1,3 @@
-
 import { useEffect, useRef } from 'react';
 import { Link } from 'react-router-dom';
 import { Calendar, Users, Gift, Camera, Music, Utensils } from 'lucide-react';
